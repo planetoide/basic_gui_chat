@@ -1,5 +1,14 @@
 package com.chat;
 
+/**
+* The HelloWorld program implements an application that
+* simply displays "Hello World!" to the standard output.
+*
+* @author  Elvis Martinez Flores
+* @version 1.0
+* @since   2018-08-05 
+*/
+
 import java.awt.EventQueue;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
